@@ -1,5 +1,5 @@
 Hi, I'm Manuel Preciado
-I'm a fifth semester Digital System and Robotics engineer 
-at Tecnológico de Monterrey.
+I'm a fifth semester Robotics and Digital System engineer 
+@ Tecnológico de Monterrey.
 
 
